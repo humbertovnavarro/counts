@@ -2,7 +2,7 @@
 
 App(
     appid="counts",  # Must be unique
-    name="counts",  # Displayed in menus
+    name="Counts",  # Displayed in menus
     apptype=FlipperAppType.EXTERNAL,
     entry_point="counterapp",
     stack_size=2 * 1024,
